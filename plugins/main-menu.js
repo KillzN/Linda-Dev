@@ -20,7 +20,6 @@ let tags = {
   'rpg': 'RPG 🌠',
   'rg': 'Registro 📁',
   'owner': 'Creador 😺',
-  'audio': 'Audios 🔉',
   'anime': 'Anime 👑',
   'advanced': 'Avanzado 💠',
 };
