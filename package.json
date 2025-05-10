@@ -1,7 +1,7 @@
 {
-    "name": "KILL BOT",
+    "name": "LINDA BOT",
     "version": "Mvrco tu papi",
-    "description": "Sigueme en ig @ineffable.mvrco",
+    "description": "Sigueme en ig @linda_mc20",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -18,20 +18,20 @@
         "eslint": "eslint .",
         "eslintfix": "eslint --fix ."
     },
-    "homepage": "www.instagram.com/ineffable.mvrco",
+    "homepage": "www.instagram.com/linda_mc20",
     "author": {
         "name": "Kill"
     },
     "collaborators": {
-        "col1": "KILLBOT",
-        "col2": "@bykillzn"
+        "col1": "LINDABOT",
+        "col2": "@byLinda"
     },
     "repository": {
         "type": "git",
-        "url": "git+www.instagram.com/ineffable.mvrco.git"
+        "url": "git+www.instagram.com/linda_mc20.git"
     },
     "bugs": {
-        "url": "www.instagram.com/ineffable.mvrco/issues"
+        "url": "www.instagram.com/linda_mc20/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

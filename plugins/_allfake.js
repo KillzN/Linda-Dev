@@ -36,15 +36,15 @@ handler.all = async function (m) {
     //creador y otros
     global.creador = 'Wa.me/5683073328'
     global.ofcbot = `${conn.user.jid.split('@')[0]}`
-    global.asistencia = 'https://wa.me/56983073328'
-    global.namechannel = 'KILL BOT'
+    global.asistencia = 'https://wa.me/59164907907'
+    global.namechannel = 'LINDA BOT'
 
     //Reacciones De Comandos.!
     global.rwait = '🕒'
     global.done = '✅'
     global.error = '✖️'
 
-    //Emojis determinado de KILL BOT
+    //Emojis determinado de LINDA BOT
     global.emoji = '🍁'
     global.emoji2 = '⭐'
     global.emoji3 = '✨️'
@@ -59,8 +59,8 @@ handler.all = async function (m) {
 
     //Enlaces
     var canal = 'https://www.whatsapp.com/channel/0029Vb4TKBCD38CNEkfHdj1z'
-    var tiktok = 'https://www.tiktok.com/@ineffable.mvrco'
-    var ig = 'https://www.instagram.com/ineffable.mvrco'
+    var tiktok = 'https://www.tiktok.com/@linda_mc20'
+    var ig = 'https://www.instagram.com/linda_mc20'
     let correo = 'tummperra@gmail.com'
 
     global.redes = [canal, tiktok, ig, correo].getRandom()
@@ -86,9 +86,9 @@ handler.all = async function (m) {
     global.readMore = more.repeat(850)
 
     //Fakes
-    global.fkontak = { key: { participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `56983073328-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${pushname}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': null, thumbnail: null, sendEphemeral: true } } }
+    global.fkontak = { key: { participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `59164907907-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${pushname}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': null, thumbnail: null, sendEphemeral: true } } }
 
-    // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "56983073328-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
+    // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "59164907907-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
     global.fake = {
         contextInfo: {
